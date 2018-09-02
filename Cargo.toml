@@ -1,0 +1,10 @@
+[package]
+name = "meet"
+version = "0.1.0"
+authors = ["Dan Bruder <ddbruder@gmail.com>"]
+
+[dependencies]
+base64 = "0.9.2"
+oauth2 = "2.0.0-alpha.2"
+rand = "0.5.5"
+url = "1.7.1"
